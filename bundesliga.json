@@ -1,13 +1,20 @@
-{
-  "rank": 0,
-  "team_name": "",
-  "team_logo": "",
-  "played": 0,
-  "won": 0,
-  "draw": 0,
-  "lost": 0,
-  "goals_for": 0,
-  "goals_against": 0,
-  "goal_difference": 0,
-  "points": 0
-}
+[
+  { "rank": 1, "team_name": "Bayer Leverkusen", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png", "played": 17, "won": 13, "draw": 3, "lost": 1, "goals_for": 44, "goals_against": 15, "goal_difference": 29, "points": 42 },
+  { "rank": 2, "team_name": "Bayern Munich", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_München_logo_%282017%29.svg/1200px-FC_Bayern_München_logo_%282017%29.svg.png", "played": 17, "won": 12, "draw": 4, "lost": 1, "goals_for": 48, "goals_against": 14, "goal_difference": 34, "points": 40 },
+  { "rank": 3, "team_name": "RB Leipzig", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/1200px-RB_Leipzig_2014_logo.svg.png", "played": 17, "won": 11, "draw": 3, "lost": 3, "goals_for": 35, "goals_against": 18, "goal_difference": 17, "points": 36 },
+  { "rank": 4, "team_name": "Borussia Dortmund", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png", "played": 17, "won": 10, "draw": 4, "lost": 3, "goals_for": 38, "goals_against": 22, "goal_difference": 16, "points": 34 },
+  { "rank": 5, "team_name": "Eintracht Frankfurt", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1200px-Eintracht_Frankfurt_Logo.svg.png", "played": 17, "won": 9, "draw": 4, "lost": 4, "goals_for": 33, "goals_against": 24, "goal_difference": 9, "points": 31 },
+  { "rank": 6, "team_name": "VfB Stuttgart", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png", "played": 17, "won": 8, "draw": 5, "lost": 4, "goals_for": 31, "goals_against": 26, "goal_difference": 5, "points": 29 },
+  { "rank": 7, "team_name": "SC Freiburg", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/SC_Freiburg_logo.svg/1200px-SC_Freiburg_logo.svg.png", "played": 17, "won": 8, "draw": 3, "lost": 6, "goals_for": 24, "goals_against": 23, "goal_difference": 1, "points": 27 },
+  { "rank": 8, "team_name": "Union Berlin", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1._FC_Union_Berlin_Logo.svg/1200px-1._FC_Union_Berlin_Logo.svg.png", "played": 17, "won": 7, "draw": 4, "lost": 6, "goals_for": 20, "goals_against": 21, "goal_difference": -1, "points": 25 },
+  { "rank": 9, "team_name": "Werder Bremen", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png", "played": 17, "won": 6, "draw": 5, "lost": 6, "goals_for": 25, "goals_against": 28, "goal_difference": -3, "points": 23 },
+  { "rank": 10, "team_name": "Borussia Mönchengladbach", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_Mönchengladbach_logo.svg/1200px-Borussia_Mönchengladbach_logo.svg.png", "played": 17, "won": 6, "draw": 4, "lost": 7, "goals_for": 27, "goals_against": 30, "goal_difference": -3, "points": 22 },
+  { "rank": 11, "team_name": "Wolfsburg", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_VfL_Wolfsburg.svg/1200px-Logo_VfL_Wolfsburg.svg.png", "played": 17, "won": 6, "draw": 3, "lost": 8, "goals_for": 22, "goals_against": 25, "goal_difference": -3, "points": 21 },
+  { "rank": 12, "team_name": "Hoffenheim", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/1200px-Logo_TSG_Hoffenheim.svg.png", "played": 17, "won": 5, "draw": 4, "lost": 8, "goals_for": 26, "goals_against": 32, "goal_difference": -6, "points": 19 },
+  { "rank": 13, "team_name": "Mainz 05", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1._FSV_Mainz_05_Logo.svg/1200px-1._FSV_Mainz_05_Logo.svg.png", "played": 17, "won": 4, "draw": 6, "lost": 7, "goals_for": 21, "goals_against": 27, "goal_difference": -6, "points": 18 },
+  { "rank": 14, "team_name": "Augsburg", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/FC_Augsburg_logo.svg/1200px-FC_Augsburg_logo.svg.png", "played": 17, "won": 4, "draw": 5, "lost": 8, "goals_for": 19, "goals_against": 29, "goal_difference": -10, "points": 17 },
+  { "rank": 15, "team_name": "Heidenheim", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/1._FC_Heidenheim_1846_logo.svg/1200px-1._FC_Heidenheim_1846_logo.svg.png", "played": 17, "won": 4, "draw": 4, "lost": 9, "goals_for": 18, "goals_against": 31, "goal_difference": -13, "points": 16 },
+  { "rank": 16, "team_name": "St. Pauli", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/FC_St_Pauli_Logo.svg/1200px-FC_St_Pauli_Logo.svg.png", "played": 17, "won": 3, "draw": 5, "lost": 9, "goals_for": 15, "goals_against": 28, "goal_difference": -13, "points": 14 },
+  { "rank": 17, "team_name": "Holstein Kiel", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Holstein_Kiel_Logo.svg/1200px-Holstein_Kiel_Logo.svg.png", "played": 17, "won": 2, "draw": 4, "lost": 11, "goals_for": 13, "goals_against": 35, "goal_difference": -22, "points": 10 },
+  { "rank": 18, "team_name": "Bochum", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/1200px-VfL_Bochum_logo.svg.png", "played": 17, "won": 1, "draw": 5, "lost": 11, "goals_for": 12, "goals_against": 38, "goal_difference": -26, "points": 8 }
+]
