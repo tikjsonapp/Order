@@ -1,13 +1,20 @@
-{
-  "rank": 0,
-  "team_name": "",
-  "team_logo": "",
-  "played": 0,
-  "won": 0,
-  "draw": 0,
-  "lost": 0,
-  "goals_for": 0,
-  "goals_against": 0,
-  "goal_difference": 0,
-  "points": 0
-}
+[
+  { "rank": 1, "team_name": "Paris Saint-Germain", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png", "played": 18, "won": 14, "draw": 3, "lost": 1, "goals_for": 45, "goals_against": 14, "goal_difference": 31, "points": 45 },
+  { "rank": 2, "team_name": "Monaco", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/AS_Monaco_FC.svg/1200px-AS_Monaco_FC.svg.png", "played": 18, "won": 12, "draw": 4, "lost": 2, "goals_for": 33, "goals_against": 16, "goal_difference": 17, "points": 40 },
+  { "rank": 3, "team_name": "Marseille", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/1200px-Olympique_Marseille_logo.svg.png", "played": 18, "won": 11, "draw": 4, "lost": 3, "goals_for": 36, "goals_against": 21, "goal_difference": 15, "points": 37 },
+  { "rank": 4, "team_name": "Lille", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Lille_OSC_2018_logo.svg/1200px-Lille_OSC_2018_logo.svg.png", "played": 18, "won": 10, "draw": 5, "lost": 3, "goals_for": 28, "goals_against": 17, "goal_difference": 11, "points": 35 },
+  { "rank": 5, "team_name": "Lyon", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Olympique_Lyonnais_2022.svg/1200px-Olympique_Lyonnais_2022.svg.png", "played": 18, "won": 9, "draw": 4, "lost": 5, "goals_for": 30, "goals_against": 24, "goal_difference": 6, "points": 31 },
+  { "rank": 6, "team_name": "Nice", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/1200px-OGC_Nice_logo.svg.png", "played": 18, "won": 8, "draw": 6, "lost": 4, "goals_for": 25, "goals_against": 19, "goal_difference": 6, "points": 30 },
+  { "rank": 7, "team_name": "Lens", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/RC_Lens_logo.svg/1200px-RC_Lens_logo.svg.png", "played": 18, "won": 7, "draw": 7, "lost": 4, "goals_for": 22, "goals_against": 18, "goal_difference": 4, "points": 28 },
+  { "rank": 8, "team_name": "Reims", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Stade_de_Reims_logo.svg/1200px-Stade_de_Reims_logo.svg.png", "played": 18, "won": 7, "draw": 5, "lost": 6, "goals_for": 24, "goals_against": 25, "goal_difference": -1, "points": 26 },
+  { "rank": 9, "team_name": "Rennes", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Stade_Rennais_FC.svg/1200px-Stade_Rennais_FC.svg.png", "played": 18, "won": 6, "draw": 5, "lost": 7, "goals_for": 26, "goals_against": 27, "goal_difference": -1, "points": 23 },
+  { "rank": 10, "team_name": "Strasbourg", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/1200px-Racing_Club_de_Strasbourg_logo.svg.png", "played": 18, "won": 6, "draw": 4, "lost": 8, "goals_for": 23, "goals_against": 28, "goal_difference": -5, "points": 22 },
+  { "rank": 11, "team_name": "Brest", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Stade_Brestois_29_logo.svg/1200px-Stade_Brestois_29_logo.svg.png", "played": 18, "won": 5, "draw": 5, "lost": 8, "goals_for": 20, "goals_against": 26, "goal_difference": -6, "points": 20 },
+  { "rank": 12, "team_name": "Toulouse", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Toulouse_FC_logo_2018.svg/1200px-Toulouse_FC_logo_2018.svg.png", "played": 18, "won": 5, "draw": 4, "lost": 9, "goals_for": 21, "goals_against": 29, "goal_difference": -8, "points": 19 },
+  { "rank": 13, "team_name": "Montpellier", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Montpellier_HSC_logo.svg/1200px-Montpellier_HSC_logo.svg.png", "played": 18, "won": 4, "draw": 6, "lost": 8, "goals_for": 19, "goals_against": 30, "goal_difference": -11, "points": 18 },
+  { "rank": 14, "team_name": "Auxerre", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/AJ_Auxerre_logo.svg/1200px-AJ_Auxerre_logo.svg.png", "played": 18, "won": 5, "draw": 3, "lost": 10, "goals_for": 17, "goals_against": 31, "goal_difference": -14, "points": 18 },
+  { "rank": 15, "team_name": "Nantes", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/FC_Nantes_2019_logo.svg/1200px-FC_Nantes_2019_logo.svg.png", "played": 18, "won": 4, "draw": 5, "lost": 9, "goals_for": 15, "goals_against": 25, "goal_difference": -10, "points": 17 },
+  { "rank": 16, "team_name": "Saint-Étienne", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/AS_Saint-Etienne.svg/1200px-AS_Saint-Etienne.svg.png", "played": 18, "won": 4, "draw": 4, "lost": 10, "goals_for": 16, "goals_against": 32, "goal_difference": -16, "points": 16 },
+  { "rank": 17, "team_name": "Angers", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Angers_SCO_logo.svg/1200px-Angers_SCO_logo.svg.png", "played": 18, "won": 3, "draw": 5, "lost": 10, "goals_for": 14, "goals_against": 30, "goal_difference": -16, "points": 14 },
+  { "rank": 18, "team_name": "Le Havre", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Le_Havre_AC_logo.svg/1200px-Le_Havre_AC_logo.svg.png", "played": 18, "won": 3, "draw": 3, "lost": 12, "goals_for": 12, "goals_against": 34, "goal_difference": -22, "points": 12 }
+]
