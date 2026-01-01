@@ -1,13 +1,22 @@
-{
-  "rank": 0,
-  "team_name": "",
-  "team_logo": "",
-  "played": 0,
-  "won": 0,
-  "draw": 0,
-  "lost": 0,
-  "goals_for": 0,
-  "goals_against": 0,
-  "goal_difference": 0,
-  "points": 0
-}
+[
+  { "rank": 1, "team_name": "Inter Milan", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png", "played": 19, "won": 14, "draw": 3, "lost": 2, "goals_for": 38, "goals_against": 14, "goal_difference": 24, "points": 45 },
+  { "rank": 2, "team_name": "Juventus", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Juventus_FC_2017_logo.svg/1200px-Juventus_FC_2017_logo.svg.png", "played": 19, "won": 13, "draw": 4, "lost": 2, "goals_for": 31, "goals_against": 12, "goal_difference": 19, "points": 43 },
+  { "rank": 3, "team_name": "Napoli", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/1200px-SSC_Neapel.svg.png", "played": 19, "won": 12, "draw": 5, "lost": 2, "goals_for": 34, "goals_against": 16, "goal_difference": 18, "points": 41 },
+  { "rank": 4, "team_name": "AC Milan", "team_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png", "played": 19, "won": 11, "draw": 4, "lost": 4, "goals_for": 35, "goals_against": 21, "goal_difference": 14, "points": 37 },
+  { "rank": 5, "team_name": "Atalanta", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Atalanta_BC_logo.svg/1200px-Atalanta_BC_logo.svg.png", "played": 19, "won": 10, "draw": 5, "lost": 4, "goals_for": 40, "goals_against": 23, "goal_difference": 17, "points": 35 },
+  { "rank": 6, "team_name": "Lazio", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/1200px-S.S._Lazio_badge.svg.png", "played": 19, "won": 10, "draw": 3, "lost": 6, "goals_for": 30, "goals_against": 22, "goal_difference": 8, "points": 33 },
+  { "rank": 7, "team_name": "Fiorentina", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/ACF_Fiorentina_2022_logo.svg/1200px-ACF_Fiorentina_2022_logo.svg.png", "played": 19, "won": 9, "draw": 5, "lost": 5, "goals_for": 28, "goals_against": 20, "goal_difference": 8, "points": 32 },
+  { "rank": 8, "team_name": "AS Roma", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png", "played": 19, "won": 8, "draw": 6, "lost": 5, "goals_for": 26, "goals_against": 23, "goal_difference": 3, "points": 30 },
+  { "rank": 9, "team_name": "Bologna", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Bologna_F.C._1909_logo.svg/1200px-Bologna_F.C._1909_logo.svg.png", "played": 19, "won": 7, "draw": 7, "lost": 5, "goals_for": 22, "goals_against": 21, "goal_difference": 1, "points": 28 },
+  { "rank": 10, "team_name": "Torino", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png", "played": 19, "won": 7, "draw": 5, "lost": 7, "goals_for": 21, "goals_against": 24, "goal_difference": -3, "points": 26 },
+  { "rank": 11, "team_name": "Udinese", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/1200px-Udinese_Calcio_logo.svg.png", "played": 19, "won": 7, "draw": 3, "lost": 9, "goals_for": 20, "goals_against": 27, "goal_difference": -7, "points": 24 },
+  { "rank": 12, "team_name": "Genoa", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Genoa_C.F.C._logo.svg/1200px-Genoa_C.F.C._logo.svg.png", "played": 19, "won": 6, "draw": 4, "lost": 9, "goals_for": 19, "goals_against": 26, "goal_difference": -7, "points": 22 },
+  { "rank": 13, "team_name": "Parma", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Parma_Calcio_1913_logo.svg/1200px-Parma_Calcio_1913_logo.svg.png", "played": 19, "won": 5, "draw": 6, "lost": 8, "goals_for": 22, "goals_against": 29, "goal_difference": -7, "points": 21 },
+  { "rank": 14, "team_name": "Empoli", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Empoli_F.C._logo.svg/1200px-Empoli_F.C._logo.svg.png", "played": 19, "won": 4, "draw": 8, "lost": 7, "goals_for": 15, "goals_against": 22, "goal_difference": -7, "points": 20 },
+  { "rank": 15, "team_name": "Como", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Como_1907_logo.svg/1200px-Como_1907_logo.svg.png", "played": 19, "won": 4, "draw": 7, "lost": 8, "goals_for": 18, "goals_against": 28, "goal_difference": -10, "points": 19 },
+  { "rank": 16, "team_name": "Verona", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Hellas_Verona_FC_logo_%282020%29.svg/1200px-Hellas_Verona_FC_logo_%282020%29.svg.png", "played": 19, "won": 5, "draw": 3, "lost": 11, "goals_for": 21, "goals_against": 32, "goal_difference": -11, "points": 18 },
+  { "rank": 17, "team_name": "Cagliari", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Cagliari_Calcio_1970_logo.svg/1200px-Cagliari_Calcio_1970_logo.svg.png", "played": 19, "won": 4, "draw": 5, "lost": 10, "goals_for": 17, "goals_against": 31, "goal_difference": -14, "points": 17 },
+  { "rank": 18, "team_name": "Sassuolo", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/1200px-US_Sassuolo_Calcio_logo.svg.png", "played": 19, "won": 3, "draw": 6, "lost": 10, "goals_for": 16, "goals_against": 30, "goal_difference": -14, "points": 15 },
+  { "rank": 19, "team_name": "Lecce", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/U.S._Lecce_logo.svg/1200px-U.S._Lecce_logo.svg.png", "played": 19, "won": 3, "draw": 5, "lost": 11, "goals_for": 12, "goals_against": 29, "goal_difference": -17, "points": 14 },
+  { "rank": 20, "team_name": "Palermo", "team_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Palermo_FC_logo.svg/1200px-Palermo_FC_logo.svg.png", "played": 19, "won": 2, "draw": 6, "lost": 11, "goals_for": 14, "goals_against": 33, "goal_difference": -19, "points": 12 }
+]
