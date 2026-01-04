@@ -2,6 +2,7 @@
   {
     "rank": 1,
     "team_name": "RC Lens",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/RC_Lens_logo.svg",
     "played": 17,
     "won": 13,
     "draw": 1,
@@ -14,6 +15,7 @@
   {
     "rank": 2,
     "team_name": "Paris Saint-Germain",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
     "played": 16,
     "won": 11,
     "draw": 3,
@@ -26,6 +28,7 @@
   {
     "rank": 3,
     "team_name": "Marseille",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/7b/Olympique_de_Marseille_logo.svg",
     "played": 16,
     "won": 10,
     "draw": 2,
@@ -38,6 +41,7 @@
   {
     "rank": 4,
     "team_name": "Lille",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3f/Lille_OSC_2018_logo.svg",
     "played": 16,
     "won": 10,
     "draw": 2,
@@ -50,6 +54,7 @@
   {
     "rank": 5,
     "team_name": "Lyon",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/c6/Olympique_Lyonnais_logo.svg",
     "played": 16,
     "won": 8,
     "draw": 3,
@@ -62,6 +67,7 @@
   {
     "rank": 6,
     "team_name": "Rennes",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/Stade_Rennais_FC.svg",
     "played": 16,
     "won": 7,
     "draw": 6,
@@ -74,6 +80,7 @@
   {
     "rank": 7,
     "team_name": "Strasbourg",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/80/Racing_Club_de_Strasbourg_logo.svg",
     "played": 16,
     "won": 7,
     "draw": 2,
@@ -86,6 +93,7 @@
   {
     "rank": 8,
     "team_name": "Toulouse",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8b/Toulouse_FC_logo.svg",
     "played": 17,
     "won": 6,
     "draw": 5,
@@ -98,6 +106,7 @@
   {
     "rank": 9,
     "team_name": "Monaco",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4c/AS_Monaco_FC.svg",
     "played": 16,
     "won": 7,
     "draw": 2,
@@ -110,6 +119,7 @@
   {
     "rank": 10,
     "team_name": "Angers",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/d/d4/Angers_SCO_logo.svg",
     "played": 16,
     "won": 6,
     "draw": 4,
@@ -122,6 +132,7 @@
   {
     "rank": 11,
     "team_name": "Brest",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/05/Stade_Brestois_29_logo.svg",
     "played": 16,
     "won": 5,
     "draw": 4,
@@ -134,6 +145,7 @@
   {
     "rank": 12,
     "team_name": "Lorient",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b9/FC_Lorient_logo.svg",
     "played": 16,
     "won": 4,
     "draw": 6,
@@ -146,6 +158,7 @@
   {
     "rank": 13,
     "team_name": "Nice",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/OGC_Nice_logo.svg",
     "played": 16,
     "won": 5,
     "draw": 2,
@@ -158,6 +171,7 @@
   {
     "rank": 14,
     "team_name": "Paris FC",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f7/Paris_FC_logo.svg",
     "played": 16,
     "won": 4,
     "draw": 4,
@@ -170,6 +184,7 @@
   {
     "rank": 15,
     "team_name": "Le Havre",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/9b/Le_Havre_AC_logo.svg",
     "played": 16,
     "won": 3,
     "draw": 6,
@@ -182,6 +197,7 @@
   {
     "rank": 16,
     "team_name": "Auxerre",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/91/AJ_Auxerre_logo.svg",
     "played": 16,
     "won": 3,
     "draw": 3,
@@ -194,6 +210,7 @@
   {
     "rank": 17,
     "team_name": "Nantes",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/f5/FC_Nantes_logo.svg",
     "played": 16,
     "won": 2,
     "draw": 5,
@@ -206,6 +223,7 @@
   {
     "rank": 18,
     "team_name": "Metz",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/4a/FC_Metz_logo.svg",
     "played": 16,
     "won": 3,
     "draw": 2,
